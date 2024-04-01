@@ -1,6 +1,6 @@
 # Pantheon's documentation on robots.txt: https://pantheon.io/docs/bots-and-indexing/
 User-agent: *
-Disallow: /
+Allow: /
 
 User-agent: RavenCrawler
 User-agent: rogerbot
